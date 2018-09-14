@@ -126,3 +126,4 @@ client.on("message", async message => {
       .catch(error => message.reply(`Couldn't delete messages because of: ${error}`));
   }
 bot.login(botconfig.token)
+//Jettthreat gay af lmao
