@@ -6,3 +6,4 @@ bot.on("ready", async () => {
 });
 
 bot.login(botconfig.token)
+//Jettthreat gay af lmao
